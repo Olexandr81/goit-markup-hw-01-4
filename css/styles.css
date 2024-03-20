@@ -136,7 +136,7 @@ padding-bottom: 24px; */
     left: 0;
     bottom: -1px;
     display: block;
-    width: 100px;
+    width: 48px;
     height: 4px;
     border-radius: 2px;
     background-color: #404BBF;
@@ -146,6 +146,7 @@ padding-bottom: 24px; */
   background-color: #ffffff;
 
   margin-right: 40px;
+  width: 100;
 }
 
 .list-item:last-child {
